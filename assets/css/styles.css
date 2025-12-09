@@ -1,0 +1,369 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+}
+
+.login-box {
+  background: white;
+  padding: clamp(25px, 5vw, 40px);
+  border-radius: 10px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+}
+
+.login-box h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+  font-size: clamp(20px, 5vw, 24px);
+}
+
+.login-box h2 {
+  text-align: center;
+  color: #666;
+  margin-bottom: clamp(20px, 4vw, 30px);
+  font-size: clamp(14px, 3vw, 16px);
+  font-weight: normal;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+  font-weight: 500;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px 15px;
+  border: 2px solid #e1e1e1;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.form-group input:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+.form-group input::placeholder {
+  color: #aaa;
+}
+
+.error-message {
+  color: #e74c3c;
+  font-size: 14px;
+  margin-bottom: 15px;
+  text-align: center;
+  min-height: 20px;
+}
+
+.btn-login {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-login:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+}
+
+.btn-login:active {
+  transform: translateY(0);
+}
+
+/* Dashboard styles */
+
+.dashboard-container {
+  display: none;
+  width: 100%;
+  max-width: 900px;
+  padding: 10px;
+}
+
+.dashboard-box {
+  background: white;
+  padding: clamp(15px, 4vw, 30px);
+  border-radius: 10px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+  overflow-x: auto;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: clamp(15px, 4vw, 30px);
+  padding-bottom: clamp(10px, 3vw, 20px);
+  border-bottom: 2px solid #f0f0f0;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.dashboard-header h1 {
+  color: #333;
+  font-size: clamp(18px, 4vw, 22px);
+}
+
+.btn-logout {
+  padding: 8px 20px;
+  background: #e74c3c;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn-logout:hover {
+  background: #c0392b;
+}
+
+.student-info {
+  margin-bottom: clamp(15px, 4vw, 30px);
+}
+
+.student-info p {
+  margin-bottom: 8px;
+  color: #555;
+  font-size: clamp(13px, 3vw, 15px);
+  word-break: break-word;
+}
+
+.student-info strong {
+  color: #333;
+}
+
+/* Table wrapper for horizontal scroll on mobile */
+
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-top: 20px;
+}
+
+.grades-table {
+  width: 100%;
+  min-width: 450px;
+  border-collapse: collapse;
+}
+
+.grades-table th, .grades-table td {
+  padding: clamp(8px, 2vw, 12px) clamp(8px, 2vw, 15px);
+  text-align: center;
+  border-bottom: 1px solid #e1e1e1;
+  font-size: clamp(12px, 2.5vw, 14px);
+  white-space: nowrap;
+}
+
+.grades-table th {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+}
+
+.grades-table tr:hover {
+  background: #f8f9fa;
+}
+
+.grade-cell {
+  font-weight: 600;
+}
+
+.grade-approved {
+  color: #27ae60;
+}
+
+.grade-recovery {
+  color: #f39c12;
+}
+
+.grade-failed {
+  color: #e74c3c;
+}
+
+.average-row {
+  background: #f8f9fa;
+  font-weight: 600;
+}
+
+.average-row td {
+  border-top: 2px solid #667eea;
+}
+
+/* Mobile card layout for grades */
+
+.grades-cards {
+  display: none;
+}
+
+.grade-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-left: 4px solid #667eea;
+}
+
+.grade-card-subject {
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.grade-card-grades {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  text-align: center;
+}
+
+.grade-card-item {
+  background: white;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.grade-card-item span {
+  display: block;
+  font-size: 11px;
+  color: #666;
+  margin-bottom: 3px;
+}
+
+.grade-card-item strong {
+  font-size: 16px;
+}
+
+.grade-card-average {
+  background: white;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  border: 2px solid #667eea;
+}
+
+.grade-card-average span {
+  display: block;
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.grade-card-average strong {
+  font-size: 20px;
+}
+
+/* Media Queries */
+
+/* Tablets */
+
+@media screen and (max-width: 768px) {
+  .dashboard-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .btn-logout {
+    align-self: flex-end;
+  }
+}
+
+/* Mobile phones */
+
+@media screen and (max-width: 576px) {
+  body {
+    align-items: flex-start;
+    padding-top: 20px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .login-box {
+    border-radius: 8px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .dashboard-box {
+    border-radius: 8px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .table-wrapper {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .grades-cards {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .student-info {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+  }
+}
+
+/* Small mobile phones */
+
+@media screen and (max-width: 360px) {
+  .grade-card-grades {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .login-box h1 {
+    font-size: 18px;
+  }
+}
+
