@@ -1,0 +1,848 @@
+[{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abebd"
+  },
+  "id": "01",
+  "dni": "60547088",
+  "email": "stud_60547088@nos.edu.pe",
+  "student": "Alvarez Masape Gomercindo",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 12
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abebe"
+  },
+  "id": "02",
+  "dni": "60356457",
+  "email": "stud_60356457@nos.edu.pe",
+  "student": "Baldeon Vasquez Jafet Noe",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abebf"
+  },
+  "id": "03",
+  "dni": "73057433",
+  "email": "stud_73057433@nos.edu.pe",
+  "student": "Chistama Luna Adonis Amir",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 12,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec0"
+  },
+  "id": "04",
+  "dni": "60351269",
+  "email": "stud_60351269@nos.edu.pe",
+  "student": "Chu Ushiñahua Lincer Alfonso",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 12,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec1"
+  },
+  "id": "05",
+  "dni": "60535880",
+  "email": "stud_60535880@nos.edu.pe",
+  "student": "Chujutalli Shapiama Luis Alberto",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec2"
+  },
+  "id": "06",
+  "dni": "60034392",
+  "email": "stud_60034392@nos.edu.pe",
+  "student": "Flores Torres Christopher",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec3"
+  },
+  "id": "07",
+  "dni": "73434386",
+  "email": "stud_73434386@nos.edu.pe",
+  "student": "Garcia Valles Luis Enrique",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 10,
+  "grade2": 5,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec4"
+  },
+  "id": "08",
+  "dni": "72754219",
+  "email": "stud_72754219@nos.edu.pe",
+  "student": "Guevara Jauregui Richard Jeanpiere",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec5"
+  },
+  "id": "09",
+  "dni": "60349703",
+  "email": "stud_60349703@nos.edu.pe",
+  "student": "Lozano Reategui Flavio",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 16,
+  "grade3": 17
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec6"
+  },
+  "id": "10",
+  "dni": "62800926",
+  "email": "stud_62800926@nos.edu.pe",
+  "student": "Medina Marreros Gamnier Jampier",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 12,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec7"
+  },
+  "id": "11",
+  "dni": "60348137",
+  "email": "stud_60348137@nos.edu.pe",
+  "student": "Mejia Fernandez Jorge Luis",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec8"
+  },
+  "id": "12",
+  "dni": "76555056",
+  "email": "stud_76555056@nos.edu.pe",
+  "student": "Muños Saavedra Carlos Orlando",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 5,
+  "grade2": 12,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abec9"
+  },
+  "id": "13",
+  "dni": "60575598",
+  "email": "stud_60575598@nos.edu.pe",
+  "student": "Paima Neira Deivin Harif",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 12,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeca"
+  },
+  "id": "14",
+  "dni": "71501308",
+  "email": "stud_71501308@nos.edu.pe",
+  "student": "Pinedo Amasifuen Juan Carlos",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 12,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abecb"
+  },
+  "id": "15",
+  "dni": "60034397",
+  "email": "stud_60034397@nos.edu.pe",
+  "student": "Pinedo Pinchi Cristofer",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 13,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abecc"
+  },
+  "id": "16",
+  "dni": "60217783",
+  "email": "stud_60217783@nos.edu.pe",
+  "student": "Pizango Lopez Klissman Andy",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abecd"
+  },
+  "id": "17",
+  "dni": "60034739",
+  "email": "stud_60034739@nos.edu.pe",
+  "student": "Putpaña Lopez Mario Deivis",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 13,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abece"
+  },
+  "id": "18",
+  "dni": "60597384",
+  "email": "stud_60597384@nos.edu.pe",
+  "student": "Ramirez Gonzales Mathias",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 12,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abecf"
+  },
+  "id": "19",
+  "dni": "62527173",
+  "email": "stud_62527173@nos.edu.pe",
+  "student": "Reategui Fatama Cristian Alber",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 5,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed0"
+  },
+  "id": "20",
+  "dni": "61267158",
+  "email": "stud_61267158@nos.edu.pe",
+  "student": "Rengifo Jery Camilo Alejandro",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 13,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed1"
+  },
+  "id": "21",
+  "dni": "76677291",
+  "email": "stud_76677291@nos.edu.pe",
+  "student": "Rengifo Laulate Marck Hamil",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed2"
+  },
+  "id": "22",
+  "dni": "60288493",
+  "email": "stud_60288493@nos.edu.pe",
+  "student": "Rojas Pinchi Deivi Sebastian",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 13,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed3"
+  },
+  "id": "23",
+  "dni": "61035780",
+  "email": "stud_61035780@nos.edu.pe",
+  "student": "Sangama Macahuachi Jarlin",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed4"
+  },
+  "id": "24",
+  "dni": "73300841",
+  "email": "stud_73300841@nos.edu.pe",
+  "student": "Sempertegui Vela Jack Kenedy",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 12,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed5"
+  },
+  "id": "25",
+  "dni": "61071327",
+  "email": "stud_61071327@nos.edu.pe",
+  "student": "Tapullima Tuanama Jack Julton",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 13,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed6"
+  },
+  "id": "26",
+  "dni": "62882516",
+  "email": "stud_62882516@nos.edu.pe",
+  "student": "Viena Sangama Roldan Riquelme",
+  "program": "MAG",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed7"
+  },
+  "id": "01",
+  "dni": "73929421",
+  "email": "stud_73929421@nos.edu.pe",
+  "student": "Ayachi Cachique Dilver",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed8"
+  },
+  "id": "02",
+  "dni": "71891028",
+  "email": "stud_71891028@nos.edu.pe",
+  "student": "Chuquizuta Briceño Abner",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 14,
+  "grade2": 13,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abed9"
+  },
+  "id": "03",
+  "dni": "60034744",
+  "email": "stud_60034744@nos.edu.pe",
+  "student": "Cordova Pinchi Sergio Patrick",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 12,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeda"
+  },
+  "id": "04",
+  "dni": "60937837",
+  "email": "stud_60937837@nos.edu.pe",
+  "student": "Delgado Escobar Ciro Arol",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abedb"
+  },
+  "id": "05",
+  "dni": "75232656",
+  "email": "stud_75232656@nos.edu.pe",
+  "student": "Espinoza Trauco Korky Ademir",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abedc"
+  },
+  "id": "06",
+  "dni": "76475360",
+  "email": "stud_76475360@nos.edu.pe",
+  "student": "Garcia Coquinche Willian",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abedd"
+  },
+  "id": "07",
+  "dni": "61231165",
+  "email": "stud_61231165@nos.edu.pe",
+  "student": "Garcia Flores Javier Alonso",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abede"
+  },
+  "id": "08",
+  "dni": "60266970",
+  "email": "stud_60266970@nos.edu.pe",
+  "student": "Grandez Vasquez Gary",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 8,
+  "grade2": 8,
+  "grade3": 8
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abedf"
+  },
+  "id": "09",
+  "dni": "60256888",
+  "email": "stud_60256888@nos.edu.pe",
+  "student": "Guerra Gonzales Ivan Manolo",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 5,
+  "grade2": 5,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee0"
+  },
+  "id": "10",
+  "dni": "60496346",
+  "email": "stud_60496346@nos.edu.pe",
+  "student": "Guerra Guerra Ayton Stiveen",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee1"
+  },
+  "id": "11",
+  "dni": "61126214",
+  "email": "stud_61126214@nos.edu.pe",
+  "student": "Hidalgo Gatica Claudio Yair",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee2"
+  },
+  "id": "12",
+  "dni": "62220321",
+  "email": "stud_62220321@nos.edu.pe",
+  "student": "Isuiza Panduro Harol Jesus",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 15,
+  "grade2": 15,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee3"
+  },
+  "id": "13",
+  "dni": "62526290",
+  "email": "stud_62526290@nos.edu.pe",
+  "student": "Linares Panduro David Daniel",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 19,
+  "grade2": 18,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee4"
+  },
+  "id": "14",
+  "dni": "63157276",
+  "email": "stud_63157276@nos.edu.pe",
+  "student": "Maldonado Fasabi Daniel Paolo",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee5"
+  },
+  "id": "15",
+  "dni": "60527582",
+  "email": "stud_60527582@nos.edu.pe",
+  "student": "Molina Tello Henz Jordan",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 12
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee6"
+  },
+  "id": "16",
+  "dni": "71274636",
+  "email": "stud_71274636@nos.edu.pe",
+  "student": "Mori Pinchi Camilo",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee7"
+  },
+  "id": "17",
+  "dni": "61953950",
+  "email": "stud_61953950@nos.edu.pe",
+  "student": "Mozombite Chasnamote Andriiuth Joel",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 16,
+  "grade2": 15,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee8"
+  },
+  "id": "18",
+  "dni": "60130220",
+  "email": "stud_60130220@nos.edu.pe",
+  "student": "Pashanace Isuiza Wesley",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 5,
+  "grade2": 5,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abee9"
+  },
+  "id": "19",
+  "dni": "70741302",
+  "email": "stud_70741302@nos.edu.pe",
+  "student": "Pinedo Pinchi Ken Arthur",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeea"
+  },
+  "id": "20",
+  "dni": "61126085",
+  "email": "stud_61126085@nos.edu.pe",
+  "student": "Reategui Ramirez Gino Alexander",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 17,
+  "grade2": 17,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeeb"
+  },
+  "id": "21",
+  "dni": "61209047",
+  "email": "stud_61209047@nos.edu.pe",
+  "student": "Saldaña Ruiz Samuel",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeec"
+  },
+  "id": "22",
+  "dni": "61290679",
+  "email": "stud_61290679@nos.edu.pe",
+  "student": "Sanchez Pezo Lervy Roberto",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 5,
+  "grade2": 5,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeed"
+  },
+  "id": "23",
+  "dni": "60890322",
+  "email": "stud_60890322@nos.edu.pe",
+  "student": "Tuanama Pezo Tomic Maxel",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 13,
+  "grade2": 12,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeee"
+  },
+  "id": "24",
+  "dni": "60034571",
+  "email": "stud_60034571@nos.edu.pe",
+  "student": "Urquia Ojanama Homar",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abeef"
+  },
+  "id": "25",
+  "dni": "60356451",
+  "email": "stud_60356451@nos.edu.pe",
+  "student": "Vargas Fatama Hesler Kennedy",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abef0"
+  },
+  "id": "26",
+  "dni": "60337592",
+  "email": "stud_60337592@nos.edu.pe",
+  "student": "Vega Angulo Alexis Gabriel",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 0,
+  "grade2": 0,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "693f38cb8cc21e70bd3abef1"
+  },
+  "id": "27",
+  "dni": "60913808",
+  "email": "stud_60913808@nos.edu.pe",
+  "student": "Zuta Tapullima Emanuel",
+  "program": "MPR",
+  "year": 20025,
+  "cycle": "II",
+  "subject": "Maquinas CNC",
+  "grade1": 12,
+  "grade2": 13,
+  "grade3": 13
+}]
