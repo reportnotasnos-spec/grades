@@ -474,9 +474,9 @@
   "year": 20025,
   "cycle": "II",
   "subject": "Maquinas CNC",
-  "grade1": 0,
-  "grade2": 0,
-  "grade3": 0
+  "grade1": 12,
+  "grade2": 13,
+  "grade3": 13
 },
 {
   "_id": {
